@@ -72,3 +72,55 @@ circle {
     width:65vw;
   }
 }
+
+.timer{
+  font-size: 3vw;
+  margin-left:auto;
+  margin-right:auto;
+  padding:0px;
+  background-color:var(--purple);
+  border-radius:50%;
+}
+
+.timer-wrapper{
+  width:88%;
+  height:88%;
+  margin:6%;
+  display:table;
+  
+}
+
+.timer-wrapper > .align-middle{
+  display:table-cell;
+  vertical-align: middle;
+}
+
+.stop-btn{
+  background-color:var(--red);
+}
+
+.timer-btn{
+  font-size:1.5vw;
+}
+
+.reset-btn{
+  background-color:var(--black);
+}
+
+.resume-btn{
+  background-color:var(--blue);
+}
+
+.countdown-display{
+  font-size:4vw;
+  color:var(--white);
+  font-weight: bold;
+}
+
+.adjustbtn{
+  margin-right:1%;
+  margin-left:1%;
+  padding:0px;
+  background-color:transparent;
+  border:0px;
+}
