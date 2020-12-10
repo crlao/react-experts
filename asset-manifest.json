@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-experts/static/css/main.53854f6c.chunk.css",
-    "main.js": "/react-experts/static/js/main.1bc26afb.chunk.js",
-    "main.js.map": "/react-experts/static/js/main.1bc26afb.chunk.js.map",
+    "main.css": "/react-experts/static/css/main.d7c04a2b.chunk.css",
+    "main.js": "/react-experts/static/js/main.797d98d7.chunk.js",
+    "main.js.map": "/react-experts/static/js/main.797d98d7.chunk.js.map",
     "runtime-main.js": "/react-experts/static/js/runtime-main.b8f48616.js",
     "runtime-main.js.map": "/react-experts/static/js/runtime-main.b8f48616.js.map",
-    "static/js/2.b47dabbc.chunk.js": "/react-experts/static/js/2.b47dabbc.chunk.js",
-    "static/js/2.b47dabbc.chunk.js.map": "/react-experts/static/js/2.b47dabbc.chunk.js.map",
+    "static/js/2.30708f8a.chunk.js": "/react-experts/static/js/2.30708f8a.chunk.js",
+    "static/js/2.30708f8a.chunk.js.map": "/react-experts/static/js/2.30708f8a.chunk.js.map",
     "index.html": "/react-experts/index.html",
-    "static/css/main.53854f6c.chunk.css.map": "/react-experts/static/css/main.53854f6c.chunk.css.map",
-    "static/js/2.b47dabbc.chunk.js.LICENSE.txt": "/react-experts/static/js/2.b47dabbc.chunk.js.LICENSE.txt"
+    "static/css/main.d7c04a2b.chunk.css.map": "/react-experts/static/css/main.d7c04a2b.chunk.css.map",
+    "static/js/2.30708f8a.chunk.js.LICENSE.txt": "/react-experts/static/js/2.30708f8a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b8f48616.js",
-    "static/js/2.b47dabbc.chunk.js",
-    "static/css/main.53854f6c.chunk.css",
-    "static/js/main.1bc26afb.chunk.js"
+    "static/js/2.30708f8a.chunk.js",
+    "static/css/main.d7c04a2b.chunk.css",
+    "static/js/main.797d98d7.chunk.js"
   ]
 }
