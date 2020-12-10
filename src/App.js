@@ -11,7 +11,7 @@ const App = () => {
         <LandingPage />
       </Route>
       <Route path="/work">
-        <LandingPage />
+        <WorkPage />
       </Route>
     </div>
   );

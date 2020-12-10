@@ -35,3 +35,40 @@ body {
 .birth-btn {
   background-color: var(--pink);
 }
+
+/* Work Page */
+circle {
+  transition: stroke-dashoffset 0.35s;
+  transform: rotate(-90deg);
+  transform-origin: 50% 50%;
+}
+
+.title {
+  font-size: 100px;
+  font-weight: 100;
+  text-align: center;
+  animation: fadeIn 1.5s ease-in;
+}
+
+@keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+
+.line {
+  display:block;
+  margin: 0 auto;
+  border-bottom: 2px solid var(--white);
+  width: 0vw;
+  text-align:center;
+  animation: line 1s linear forwards;
+}
+
+@keyframes line {
+  from {
+    width:0vw;
+  }
+  to {
+    width:65vw;
+  }
+}
